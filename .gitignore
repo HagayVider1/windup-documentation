@@ -5,8 +5,3 @@ html/
 Gemfile.lock
 */master.html
 .idea/
-.gitignore
-.DS_Store
-assets/.DS_Store
-docs/.DS_Store
-docs/topics/.DS_Store
